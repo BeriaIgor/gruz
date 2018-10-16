@@ -1,0 +1,21 @@
+@import "~bootstrap/scss/bootstrap";
+
+body, input, button {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: -0.05px;
+  text-rendering: optimizeLegibility;
+}
+h1 {
+  line-height: 33px;
+  font-size: 28px;
+  color: rgba(0, 0, 0, 0.87);
+  margin-top: 17px;
+  margin-bottom: 21px;
+}
+.jumbo {
+  text-align: center;
+}
+.hidden {
+  display: none;
+}
